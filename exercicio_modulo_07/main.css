@@ -1,0 +1,9 @@
+.valid {
+  background-color: rgb(1, 129, 1);
+  color: white;
+}
+
+.invalid {
+  background-color: rgb(172, 0, 0);
+  color: white;
+}
